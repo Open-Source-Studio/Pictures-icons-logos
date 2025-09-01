@@ -6,9 +6,9 @@
 
 ```
 Pictures-icons-logos/
-├── social-networks-logo/     # Логотипы социальных сетей
-│   ├── logo-telegram.png    # Telegram (1024x1024)
-│   └── telegram-logo.png    # Telegram (512x512)
+├── social-networks-logo/        # Логотипы социальных сетей
+│   ├── telegram-logo-1024.png  # Telegram (1024x1024)
+│   └── telegram-logo-512.png   # Telegram (512x512)
 └── README.md
 ```
 
@@ -18,8 +18,8 @@ Pictures-icons-logos/
 
 | Платформа | Размеры | Форматы | Файл |
 |-----------|---------|---------|------|
-| Telegram  | 1024x1024 | PNG | `logo-telegram.png` |
-| Telegram  | 512x512 | PNG | `telegram-logo.png` |
+| Telegram  | 1024x1024 | PNG | `telegram-logo-1024.png` |
+| Telegram  | 512x512 | PNG | `telegram-logo-512.png` |
 
 ## 📋 Использование
 
@@ -37,10 +37,10 @@ cd Pictures-icons-logos
 
 ```html
 <!-- Telegram логотип 1024x1024 -->
-<img src="social-networks-logo/logo-telegram.png" alt="Telegram" width="64" height="64">
+<img src="social-networks-logo/telegram-logo-1024.png" alt="Telegram" width="64" height="64">
 
 <!-- Telegram логотип 512x512 -->
-<img src="social-networks-logo/telegram-logo.png" alt="Telegram" width="32" height="32">
+<img src="social-networks-logo/telegram-logo-512.png" alt="Telegram" width="32" height="32">
 ```
 
 ## ⚖️ Лицензия и авторские права
